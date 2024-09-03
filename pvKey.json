@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "belajar-real-time",
+  "private_key_id": "013fd7976eb3fe9ee399c9dc73ea77a2670ffac1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDX9pXMYwrQh/HI\njSfSRTFmViKnSN/ytqxYRF66RxDf7mbnR08FYpbf2HPh33fvqr70OIi09WZkGeMr\nYaFsWevGUsTd2BTqPkKIJz9V142kZSyspQJc1N1RZeHymM9Ysg7t1sXOhIpsVgxW\n/vvGBK3iLNtGBB4zlVjBmvHzcit/52+3ePobBBLpkjVQFGlIFvwK6gDwYS/B57I9\nfaqPnM2lyKyxa3uVbfeV8zlsd59YHGlXyNrLGl/7eby7LOmk8yuZ7lJDOKkwiNcu\n4JDSuVJE2xuv+8XG/zl05yRGS2P1zcDj9Na4otRHqHmboVcT5YX1mx3l1984RbtE\n+SrDUhkLAgMBAAECggEAYMC/cdb5dF1DTDc5HPIU5KU4VzvF4SZH5i+TRN8rxzc2\ncO04kNAPie+eUxZb1Erpy948GN5MZhJW/Qt7V2CdybcxLbZuAFeuVPNIY7vzYDBX\nqG0wtshC8wGzDY26byEuoQ10h0ZIAas3Ug5gW+GiyU6RWjfkE/YX0n0JYqjGpkEF\nwGr50gGZ4ljeoVtG7+1O9mvxp0pqkDjJ+JU6WKSymvLclPqrSjY+j4Hz2Nam6Z7P\n4+rA6NtMI1cxyUmJCY4SmcUcWua45iNV5r5TW0yyt1vN0QmHHqJMBQRwyWzgO+x9\nELREh+PUt0n5mNyx5aFYPiX7BfPIgA97Qq9GSOgqYQKBgQDxidlhNwYuvkkgAxhP\nRc+qGjN1C8TuUF5bSNO/FC/uZrYiGiJgGFpPNvM9mozkY3+B85uFElgzyjUxc8z+\nq0Nd4a3Jl4TG8DkydpsdqjsrfJCyh09HFOu2fEMCBhyiAL1EGswQKTUmysxjefwQ\nPcrGYxgW2N+ovkPlDVjYj56euwKBgQDk5LwLn+1cZYE1Olgg69waV1z+ESEVOUB/\nwfO3760NAcyyeSi49KUpxc1AzpK7KZMmyjXjxp62WVQxkrIcCWFLwUUlKPxrV5AR\nchb1gKRSxzjvr7zTBlwQ2oWDoouQ8Mbsx8CrCqSThXfV+ChnktOBjuH8NqX4hThT\n+rpN27jR8QKBgA03X7+kBSCVpOathK0BwuUp3drvs+zeVOtlxsBT2HORBzJCf9MG\nQhrHhPO/+ymcECQKMl5LrKvYyqRUE8lzkZIXgSzgr5E7H8YVG1O6NtagUEKUiM/4\n4xTvI7N+ph5vL+wEE1pnBtOCkUB4MkSpPOkyDuVhJIvVLV3hJxVidml1AoGBALWx\n2I/FwM6CiMFu8fwYHh0O0nOft0o4qzl/BW8yI4Vas1nNEYVYNi9lo9vY3uMRSo0V\nIRgRV3VajZnYX+gfjgtrfO7VjSHMXUFr9kuldUt8d3bUYqiEuNpsDGYExpMkflQA\n8LEVfrTX0tuX5MLq61hByqPB4ZfYcHFBa1hYnWqRAoGAfC0An1JskWgCz4DPApOA\nHiAM5A0cdKI74lazUgSBKuN9Is85ABXtFle7EcCa3hnGJ1gsDwyI3e/8FFKEfz59\nBuNju8bXXaK2Bif5n21qem/jv/OqdRcZyFoq+4q9Vtv9z9XeMwXZ4KiAfo1T/qgW\nQNr9LzgL9jdV1/qq1E0XIss=\n-----END PRIVATE KEY-----\n",
+  "client_email": "belajar-real-time@appspot.gserviceaccount.com",
+  "client_id": "102203317974692604967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/belajar-real-time%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
